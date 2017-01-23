@@ -1,2 +1,2 @@
 # NC_Viewer
-A visualization tool for NetCDF format files from the Ocean Model
+A visualization tool written in C++ for NetCDF format files from the Ocean Model. 
