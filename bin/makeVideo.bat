@@ -1,0 +1,1 @@
+bin\ffmpeg.exe -y -r %1 -i video\videoShot%%d.bmp video\%2.mp4 && del video\*.bmp

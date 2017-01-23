@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/Blank Folder.png</file>
+        <file>icons/Connect Network Projector.png</file>
+        <file>icons/Pictures Library.png</file>
+        <file>icons/Power - Shut Down.png</file>
+    </qresource>
+    <qresource prefix="/legend">
+        <file>imgs/legend.png</file>
+    </qresource>
+</RCC>

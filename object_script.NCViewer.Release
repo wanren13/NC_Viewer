@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\LoadShaders.o
+./release\SphericalCamera.o
+./release\YPRCamera.o
+./release\Mesh.o
+./release\NCLoader.o
+./release\axes.o
+./release\LayerMgr.o
+./release\DataProcessor.o
+./release\FVCOMDataProcessor.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\LoadShaders.o
+./debug\SphericalCamera.o
+./debug\YPRCamera.o
+./debug\Mesh.o
+./debug\NCLoader.o
+./debug\axes.o
+./debug\LayerMgr.o
+./debug\DataProcessor.o
+./debug\FVCOMDataProcessor.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+);
